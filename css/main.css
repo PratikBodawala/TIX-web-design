@@ -260,4 +260,10 @@ textarea {
     page-break-after: avoid;
   }
 }
-
+body{
+  background: url(/img/theater-bg-img.jpeg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}

@@ -1,0 +1,77 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="CssInvalidAtRule" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="CssInvalidFunction" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="CssInvalidMediaFeature" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="CssInvalidPropertyValue" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="CssInvalidPseudoSelector" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="CssNegativeValue" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="CssUnknownProperty" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myCustomPropertiesEnabled" value="true" />
+      <option name="myIgnoreVendorSpecificProperties" value="false" />
+      <option name="myCustomPropertiesList">
+        <value>
+          <list size="1">
+            <item index="0" class="java.lang.String" itemvalue="border-redius" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="CssUnknownTarget" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="CssUnresolvedClassInComposesRule" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="CssUnresolvedCustomProperty" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="DjangoUnresolvedUrlInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="Eslint" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="HtmlUnknownTag" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="10">
+            <item index="0" class="java.lang.String" itemvalue="nobr" />
+            <item index="1" class="java.lang.String" itemvalue="noembed" />
+            <item index="2" class="java.lang.String" itemvalue="comment" />
+            <item index="3" class="java.lang.String" itemvalue="noscript" />
+            <item index="4" class="java.lang.String" itemvalue="embed" />
+            <item index="5" class="java.lang.String" itemvalue="script" />
+            <item index="6" class="java.lang.String" itemvalue="li" />
+            <item index="7" class="java.lang.String" itemvalue="b-card" />
+            <item index="8" class="java.lang.String" itemvalue="b-card-text" />
+            <item index="9" class="java.lang.String" itemvalue="b-link" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="JSDeprecatedSymbols" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyCompatibilityInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ourVersions">
+        <value>
+          <list size="4">
+            <item index="0" class="java.lang.String" itemvalue="3.7" />
+            <item index="1" class="java.lang.String" itemvalue="3.8" />
+            <item index="2" class="java.lang.String" itemvalue="3.9" />
+            <item index="3" class="java.lang.String" itemvalue="3.10" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="3">
+            <item index="0" class="java.lang.String" itemvalue="environ" />
+            <item index="1" class="java.lang.String" itemvalue="faker" />
+            <item index="2" class="java.lang.String" itemvalue="django-rest-framework-flatbuffers" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="api.models.customer.StatusChoice" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
